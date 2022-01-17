@@ -2,13 +2,14 @@
 
 ## Biernat - website
 
-Simple one page website. It's my first comercial project where I had contact with bussines client. My own design logo and landing page website. On this project I have learned how put website to own server, how generete SSL and how protocol HTTP works. 
+Simple one page website. It's my first comercial project where I had contact with a bussines client. Logo and landing page design made by myself.
+On this project I have learned how to put a website to my own server, how to generete SSL certificates and how the HTTP protocol works.
 
 ## Technologies:
 
 - Javascirpt
 - CSS
 
-## Setup 
+## Setup
 
-Clone this repo and open with Live Server on IDE. 
+Clone this repo and open with Live Server on IDE.
