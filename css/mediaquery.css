@@ -1,11 +1,11 @@
 @media(min-width: 1024px){
     .main_slider > .slider_carousel > .carousel_slide.--secound{
-        background-image: url('/img/slider-photo_first-1444.jpg');
+        background-image: url('../img/slider-photo_first-1444.jpg');
         background-size: cover;
         background-position: center;
     }
     .main_slider > .slider_carousel > .carousel_slide.--first{
-        background-image: url('/img/slider-photo-1444.jpg');
+        background-image: url('../img/slider-photo-1444.jpg');
         background-size: cover;
         background-position: center;
     }
@@ -16,12 +16,12 @@
 
 @media (min-width: 420px){
     .slider_carousel > .carousel_slide.--secound{
-        background-image: url('/img/slider-photo_first-1024.jpg');
+        background-image: url('../img/slider-photo_first-1024.jpg');
         background-size: cover;
         background-position: center;
     }
     .slider_carousel > .carousel_slide.--first{
-        background-image: url('/img/slider-photo-1024.jpg');
+        background-image: url('../img/slider-photo-1024.jpg');
         background-size: cover;
         background-position: center;
     }

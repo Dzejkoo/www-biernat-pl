@@ -459,12 +459,13 @@ body.--active{
     text-align: center;
 }
 .carousel_slide.--first{
-    background-image: url('/img/slider-photo-420.jpg');
+    background-image: url('../img/slider-photo-420.jpg');
+    /* background-image: url('../img/slider-photo-420.jpg'); */
     background-size: cover;
     background-position: center;
 }
 .carousel_slide.--secound{
-    background-image: url('/img/slider-photo_first-420.jpg');
+    background-image: url('../img/slider-photo_first-420.jpg');
     background-size: cover;
     background-position: center;
 }

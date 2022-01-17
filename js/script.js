@@ -196,6 +196,3 @@ header.addEventListener("touchstart", handleTouchStart, false);
 header.addEventListener("touchmove", handleTouchMove, false);
 navItems.forEach((elem) => elem.addEventListener("click", linkScroll));
 slider();
-
-console.log('jakub2')
-console.log("michal2");
