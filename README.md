@@ -1,4 +1,4 @@
-![](https://github.com/Dzejkoo/www-biiernat-pl/blob/master/img/github/biernat-wyko%C5%84czenia-wn%C4%99trz-page.png?raw=true)
+![](https://github.com/Dzejkoo/www-biernat-pl/blob/master/img/github/biernat-wyko%C5%84czenia-wn%C4%99trz-page.jpg?raw=true)
 
 ## Biernat - website
 
