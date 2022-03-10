@@ -54,6 +54,7 @@ function linkScroll() {
 const lines = [...document.querySelectorAll("#services")];
 
 function fadeInAnimation() {
+  
   if (window.scrollY > 0) {
     header.classList.add("--active_scroll");
     headerLogo.classList.add("--active_scroll");
